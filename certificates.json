@@ -54,5 +54,13 @@
     "certificateType": "Certificate of Completion",
     "dateIssued": "5 September 2026",
     "status": "VALID"
+  },
+  {
+    "id": "VXM-FDT-008",
+    "name": "Alozie Victoria Ellen",
+    "programme": "Professional Flyer Design Training",
+    "certificateType": "Certificate of Completion",
+    "dateIssued": "5 September 2026",
+    "status": "VALID"
   }
 ]
